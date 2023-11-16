@@ -3,10 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    Welcome to My GitHub..
+    <title>Suranga Sandaruwan</title>
 </head>
 <body>
-    
+    <img src="C:\Users\Asus\Downloads\images.jpeg">
 </body>
 </html>
-![Alt text](images.jpeg)

@@ -1,4 +1,4 @@
-## **<div align="center">Suranga SW🤪 (UG Software Engineer)</div>**  
+## **<div align="center">Suranga SW🤪 (Undergraduate Software Engineer)</div>**  
   
 
 <div align="center">

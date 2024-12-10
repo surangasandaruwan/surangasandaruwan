@@ -2,7 +2,7 @@
   
 
 <div align="center">
-<img src="https://github.com/SurangaSW1997/SurangaSW1997/blob/main/SurangaSW.gif?raw=true" align="center" style="width: 100%" />
+<img src="https://github.com/SurangaSW1997/SurangaSW1997/blob/main/SurangaSW.gif?raw=true" align="center" style="width: 500px" />
 </div>  
   
 

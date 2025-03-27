@@ -20,7 +20,7 @@
 
 ## Experience
 
-**Intern DevOps Engineer at DXDY Digital - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ( Feb 2025 - Present )**
+**Intern DevOps Engineer at DXDY Digital - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ( Feb 2025 - Present )**
 - *I deployed AWS infrastructure for MAS Holdings Project using Terraform, automating environment creation and management. I also set up Jenkins pipelines to automate builds and deployments for Production, QA and UAT, saving 50% of the time spent on manual deployments.*
 - *I created a Jenkins pipeline to automate Azure SQL database backups using PowerShell with the SQLServer module, reducing manual effort and cutting backup time by 40%. This allowed developers to access backups much faster.*
 
@@ -31,9 +31,7 @@
 
 ## Projects
 
-**Intern DevOps Engineer at DXDY Digital - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  ( Feb 2025 - Present )**
-- Working on cloud automation and CI/CD pipelines
-- M
+
 
 <br/> 
 
